@@ -16,7 +16,7 @@ public class AccountTest {
     }
 
     @Test
-    public void testThatIHaveAnAccountAndTheBalanceIsZero() {
+    public void testThatIHaveAnAccountAndTheBalanceIsEmpty() {
         assertEquals(0, myAccount.getBalance(1234));
 
     }
@@ -30,7 +30,7 @@ public class AccountTest {
     }
 
     @Test
-    public void testThatWhenIDepositANegativeAmountMyBalanceShouldRemainZero() {
+    public void testThatWhenIDepositANegativeAmountMyBalanceShouldStillBeEmpty() {
         assertEquals(0 , myAccount.getBalance(1234));
         myAccount.deposit(-1000);
 
