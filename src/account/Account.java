@@ -3,14 +3,14 @@ package account;
 public class Account {
 
     private double accountBalance;
-    private int PIN = 1234;
+    private final String PIN;
 
-    public Account(int PIN) {
+    public Account(String PIN) {
         this.PIN = PIN;
     }
 
-    public double getBalance(int PIN) {
-        if(this.PIN == PIN)
+    public double getBalance(String PIN) {
+        if(this.PIN.equals(PIN))
             return accountBalance;
         throw new IllegalArgumentException("Wrong PIN");
     }
@@ -21,8 +21,8 @@ public class Account {
 
     }
 
-    public void withdraw(int PIN, double amount) {
-        if(this.PIN == PIN && amount > 0 && accountBalance > amount) {
+    public void withdraw(String PIN, double amount) {
+        if(this.PIN.equals(PIN) && amount > 0 && accountBalance > amount) {
             accountBalance -= amount;
         }
         else {
@@ -30,3 +30,4 @@ public class Account {
         }
     }
 }
+
