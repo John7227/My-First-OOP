@@ -6,6 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="dfa0e27b-f430-4e0e-85d3-e93adb0ce4fe" name="Changes" comment="done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/account/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/account/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/account/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/account/AccountTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,61 +32,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.1251880699552859" />
-      <entry key="MS500" value="2.3561532536842975" />
-      <entry key="S2" value="4.448634516466862" />
-      <entry key="S5" value="6.529050849133294" />
-      <entry key="S10" value="8.20552928484862" />
-      <entry key="S30" value="10.871149871255177" />
-      <entry key="S60" value="13.152998525811851" />
-      <entry key="M2" value="16.106707525843085" />
-      <entry key="M5" value="21.24678761834665" />
-      <entry key="M10" value="27.249872824199308" />
-      <entry key="M15" value="32.58387918337483" />
-      <entry key="M30" value="49.1549322556186" />
-      <entry key="H1" value="79.68613319232732" />
-      <entry key="H2" value="115.38692214579913" />
-      <entry key="H4" value="143.99541106479006" />
-      <entry key="D1" value="176.35305526309952" />
-      <entry key="W1" value="182.88065827693302" />
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0000001258318088" />
+      <entry key="S2" value="1.0188342223373559" />
+      <entry key="S5" value="1.204671757454805" />
+      <entry key="S10" value="1.4900972095489602" />
+      <entry key="S30" value="2.8476274876357075" />
+      <entry key="S60" value="4.63752646113444" />
+      <entry key="M2" value="6.808631938419479" />
+      <entry key="M5" value="11.119205647676589" />
+      <entry key="M10" value="15.26950962016563" />
+      <entry key="M15" value="17.4654733584789" />
+      <entry key="M30" value="20.386054606144782" />
+      <entry key="H1" value="25.310050365800418" />
+      <entry key="H2" value="46.4000331036147" />
+      <entry key="H4" value="88.3540784070301" />
+      <entry key="D1" value="178.31985602836025" />
+      <entry key="W1" value="203.42892536701834" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="0.0" />
-      <entry key="MS500" value="1.6205122921537935E-105" />
-      <entry key="S2" value="6.3763028978358104E-27" />
-      <entry key="S5" value="3.775637692517791E-11" />
-      <entry key="S10" value="8.831975430243505E-6" />
-      <entry key="S30" value="0.04751081567870442" />
-      <entry key="S60" value="0.48957256911540237" />
-      <entry key="M2" value="1.9375729927781755" />
-      <entry key="M5" value="5.752886381573779" />
-      <entry key="M10" value="9.45738968382294" />
-      <entry key="M15" value="11.852021696323614" />
-      <entry key="M30" value="17.38018135576336" />
-      <entry key="H1" value="25.12793150449429" />
-      <entry key="H2" value="32.84069980994638" />
-      <entry key="H4" value="38.5178336285969" />
-      <entry key="D1" value="44.60238044279668" />
-      <entry key="W1" value="45.796267329582925" />
+      <entry key="MS100" value="8.872132737048333E-10" />
+      <entry key="MS500" value="0.015707330747093753" />
+      <entry key="S2" value="0.4762752323757563" />
+      <entry key="S5" value="1.0924036824539376" />
+      <entry key="S10" value="1.4711542944141436" />
+      <entry key="S30" value="1.9044261856078342" />
+      <entry key="S60" value="2.2256021176420466" />
+      <entry key="M2" value="2.6398105193556973" />
+      <entry key="M5" value="3.435434533484173" />
+      <entry key="M10" value="4.03020405030544" />
+      <entry key="M15" value="4.301365427934812" />
+      <entry key="M30" value="4.650827135777993" />
+      <entry key="H1" value="5.8378035617108734" />
+      <entry key="H2" value="11.564793963553928" />
+      <entry key="H4" value="22.302063633773834" />
+      <entry key="D1" value="44.043451270399714" />
+      <entry key="W1" value="49.93381552873807" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.9707657457733639" />
-      <entry key="MS500" value="2.0727948960652" />
-      <entry key="S2" value="4.295161394121478" />
-      <entry key="S5" value="6.448938699994373" />
-      <entry key="S10" value="8.158743842137495" />
-      <entry key="S30" value="10.89160057160871" />
-      <entry key="S60" value="13.602144157917488" />
-      <entry key="M2" value="17.99186106402809" />
-      <entry key="M5" value="26.952691390248805" />
-      <entry key="M10" value="36.67080630938445" />
-      <entry key="M15" value="44.40491628669465" />
-      <entry key="M30" value="66.50998096398055" />
-      <entry key="H1" value="104.79328312717671" />
-      <entry key="H2" value="148.21268621611785" />
-      <entry key="H4" value="182.50401134257717" />
-      <entry key="D1" value="220.95357061913788" />
-      <entry key="W1" value="228.67664986212662" />
+      <entry key="MS100" value="0.35111121893455893" />
+      <entry key="MS500" value="0.8133951691438784" />
+      <entry key="S2" value="1.2122651758537013" />
+      <entry key="S5" value="1.9199215117640114" />
+      <entry key="S10" value="2.637632824230418" />
+      <entry key="S30" value="4.578891007438631" />
+      <entry key="S60" value="6.754806383907583" />
+      <entry key="M2" value="9.37685601911289" />
+      <entry key="M5" value="14.503961634895859" />
+      <entry key="M10" value="19.263345949980263" />
+      <entry key="M15" value="21.73882077383836" />
+      <entry key="M30" value="25.020450311599348" />
+      <entry key="H1" value="31.138094193275755" />
+      <entry key="H2" value="57.95714990703995" />
+      <entry key="H4" value="110.64960868910619" />
+      <entry key="D1" value="222.36127147172056" />
+      <entry key="W1" value="253.36241260929557" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -96,75 +98,78 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;JUnit.AccountTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AccountTest.testThaIMustEnterBankPIN_BeforeICanCheckMyBalance.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AccountTest.testThatIHaveAnAccountAndTheBalanceIsZero.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AccountTest.testThatIMustEnterMyBankPIN_BeforeICanWithdrawAnyAmountFromMyBalance.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AccountTest.testThatIhaveAnAccountAndTheBalanceIsZero.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AccountTest.testThatWhenIDeposit5KTheBalanceChangesTo5k.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AccountTest.testThatWhenIDeposit5kAndWithdraw3kMyBalanceIs2k.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AccountTest.testThatWhenIDeposit5kAndWithdrawNegativeAmountMyBalanceIsStill5k.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AccountTest.testThatWhenIDepositANegativeAmountMyBalanceShouldRemain5k.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AccountTest.testThatWhenIWithdraw3kFromMyBalanceWhichIs5kMyBalanceRemains2k.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AccountTest.testThatWhenIWithdraw3kMyBalanceShouldRemainZero.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AccountTest.testThatWhenIWithdrawNegativeAmount_MyBalanceIsStillZero.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.AirConditionerTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ArrayListTest.testThatTheArrayListIsEmpty.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.BikeTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.QueueTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.QueueTest.testThatIAddElementIntoTheQueue_AndItReturnsTrueIfItIsSuccessful.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.QueueTest.testThatIAddElementIntoTheQueue_AndItReturnsTrueIfItIsSuccessfullyAdded.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.QueueTest.testThatIAddThreeElements_AndPeek_AndItRetrievesTheFirstElements_AndIRemove_AndItRemovesTheFirstElements_ToConfirmThatPeekDoesNotRemoveAnElementItOnlyRetrievesIt.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.QueueTest.testThatIAddThreeElements_AndPeek_AndItRetrievesTheThreeFromTheFirst_AndIRemove_AndItRemovesTheThreeFromTheFirst.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.QueueTest.testThatIAddThreeElements_AndPoll_AndItReturnsTheHeadOfTheQueue.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.QueueTest.testThatIAddThreeElements_AndRemove_AndMakeSureItRemovesFromTheFirst.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.QueueTest.testThatIsReturnsNullIfTheQueueIsEmpty.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.QueueTest.testThatItReturnsNullIfTheQueueIsEmptyWhenIWantToPeekAtTheFirstIndex.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.QueueTest.testThatItThrowsAnIllegalStateExceptionIfNoSpaceIsCurrentlyAvailable.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.QueueTest.testThatItThrowsNoSuchElementExceptionIfTheQueueIsEmpty.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.QueueTest.testThatQueueIsEmpty.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.QueueTest.testThatQueueIsEmpty_ThenIPushFirstAndCheckThatItIsNotEmpty_ThenIPushSecondAndCheckItIsAlsoThere_ThenIMakeSureItReturnsFirstBeforeSecond.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StackTest.executor&quot;: &quot;Coverage&quot;,
-    &quot;JUnit.StackTest.testTestStackIsEmpty_ThenIPushX_AndStackIsNoLongerEmpty.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StackTest.testThatStackIsEmpty.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StackTest.testThatStackIsEmpty_AddThreeElements_PopOneAndPeekTheLastOne_AndMakeSureItPeeksTheLastAmongThoseTwo.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StackTest.testThatStackIsEmpty_AddThreeElements_PopOneAndPeekTheLastOne_AndMakeSureItPeeksTheLastAmongThoseTwoRemaining.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StackTest.testThatStackIsEmpty_AndIPushThreeElements_AndSearchForXWhichIsNotInTheElement_AndItReturnsMinusOneBecauseItIsNotInTheStack.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StackTest.testThatStackIsEmpty_AndIPushThreeElements_AndSearchForX_AndItReturnsThePositionInStack.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StackTest.testThatStackIsEmpty_AndTryToPeekAnEmptyStack_AndMakeSureItThrowsException.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StackTest.testThatStackIsEmpty_AndTryToPopAnEmptyStack_AndCheckIfItThrowsNewIllegalStateException.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StackTest.testThatStackIsEmpty_ThenIPushFirstAndCheckThatItIsNotEmpty_ThenIPushSecondAndCheckItIsAlsoThere_ThenIMakeSureItReturnsSecondBeforeFirst.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StackTest.testThatStackIsEmpty_ThenIPushFirst_AndIPushSecondAndCheckItIsNotEmpty_ThenIMakeSureItReturnsSecondBeforeFirst.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StackTest.testThatStackIsEmpty_ThenIPushXAndTheStackIsNotEmpty_AndIPopX_AndTheStackIsEmptyAgain.executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;true&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
-    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
-    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_directory_selection&quot;: &quot;/home/semicolon/IdeaProjects/bankAccount/src/queue&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/semicolon/Desktop/estherJavaScript&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/home/semicolon/IdeaProjects/bankAccount/src/Main.java&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;,
-    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.AccountTest.executor": "Run",
+    "JUnit.AccountTest.testThaIMustEnterBankPIN_BeforeICanCheckMyBalance.executor": "Run",
+    "JUnit.AccountTest.testThatIHaveAnAccountAndTheBalanceIsZero.executor": "Run",
+    "JUnit.AccountTest.testThatIMustEnterMyBankPIN_BeforeICanWithdrawAnyAmountFromMyBalance.executor": "Run",
+    "JUnit.AccountTest.testThatIhaveAnAccountAndTheBalanceIsZero.executor": "Run",
+    "JUnit.AccountTest.testThatWhenIDeposit5KTheBalanceChangesTo5k.executor": "Run",
+    "JUnit.AccountTest.testThatWhenIDeposit5kAndWithdraw3kMyBalanceIs2k.executor": "Run",
+    "JUnit.AccountTest.testThatWhenIDeposit5kAndWithdrawNegativeAmountMyBalanceIsStill5k.executor": "Run",
+    "JUnit.AccountTest.testThatWhenIDeposit5kAndWithdrawNegativeAmount_ItThrowsAnErrorForWithdrawalAndMyBalanceIsStill5k.executor": "Run",
+    "JUnit.AccountTest.testThatWhenIDepositANegativeAmountMyBalanceShouldRemain5k.executor": "Run",
+    "JUnit.AccountTest.testThatWhenITryToWithdrawWithAnIncorrectPIN_ItThrowsIllegalException.executor": "Run",
+    "JUnit.AccountTest.testThatWhenIWithdraw3kFromMyBalanceWhichIs5kMyBalanceRemains2k.executor": "Run",
+    "JUnit.AccountTest.testThatWhenIWithdraw3kMyBalanceShouldRemainZero.executor": "Run",
+    "JUnit.AccountTest.testThatWhenIWithdrawNegativeAmount_AndItThrowsAnError.executor": "Run",
+    "JUnit.AccountTest.testThatWhenIWithdrawNegativeAmount_MyBalanceIsStillZero.executor": "Run",
+    "JUnit.AirConditionerTest.executor": "Run",
+    "JUnit.ArrayListTest.testThatTheArrayListIsEmpty.executor": "Run",
+    "JUnit.BikeTest.executor": "Run",
+    "JUnit.QueueTest.executor": "Run",
+    "JUnit.QueueTest.testThatIAddElementIntoTheQueue_AndItReturnsTrueIfItIsSuccessful.executor": "Run",
+    "JUnit.QueueTest.testThatIAddElementIntoTheQueue_AndItReturnsTrueIfItIsSuccessfullyAdded.executor": "Run",
+    "JUnit.QueueTest.testThatIAddThreeElements_AndPeek_AndItRetrievesTheFirstElements_AndIRemove_AndItRemovesTheFirstElements_ToConfirmThatPeekDoesNotRemoveAnElementItOnlyRetrievesIt.executor": "Run",
+    "JUnit.QueueTest.testThatIAddThreeElements_AndPeek_AndItRetrievesTheThreeFromTheFirst_AndIRemove_AndItRemovesTheThreeFromTheFirst.executor": "Run",
+    "JUnit.QueueTest.testThatIAddThreeElements_AndPoll_AndItReturnsTheHeadOfTheQueue.executor": "Run",
+    "JUnit.QueueTest.testThatIAddThreeElements_AndRemove_AndMakeSureItRemovesFromTheFirst.executor": "Run",
+    "JUnit.QueueTest.testThatIsReturnsNullIfTheQueueIsEmpty.executor": "Run",
+    "JUnit.QueueTest.testThatItReturnsNullIfTheQueueIsEmptyWhenIWantToPeekAtTheFirstIndex.executor": "Run",
+    "JUnit.QueueTest.testThatItThrowsAnIllegalStateExceptionIfNoSpaceIsCurrentlyAvailable.executor": "Run",
+    "JUnit.QueueTest.testThatItThrowsNoSuchElementExceptionIfTheQueueIsEmpty.executor": "Run",
+    "JUnit.QueueTest.testThatQueueIsEmpty.executor": "Run",
+    "JUnit.QueueTest.testThatQueueIsEmpty_ThenIPushFirstAndCheckThatItIsNotEmpty_ThenIPushSecondAndCheckItIsAlsoThere_ThenIMakeSureItReturnsFirstBeforeSecond.executor": "Run",
+    "JUnit.StackTest.executor": "Coverage",
+    "JUnit.StackTest.testTestStackIsEmpty_ThenIPushX_AndStackIsNoLongerEmpty.executor": "Run",
+    "JUnit.StackTest.testThatStackIsEmpty.executor": "Run",
+    "JUnit.StackTest.testThatStackIsEmpty_AddThreeElements_PopOneAndPeekTheLastOne_AndMakeSureItPeeksTheLastAmongThoseTwo.executor": "Run",
+    "JUnit.StackTest.testThatStackIsEmpty_AddThreeElements_PopOneAndPeekTheLastOne_AndMakeSureItPeeksTheLastAmongThoseTwoRemaining.executor": "Run",
+    "JUnit.StackTest.testThatStackIsEmpty_AndIPushThreeElements_AndSearchForXWhichIsNotInTheElement_AndItReturnsMinusOneBecauseItIsNotInTheStack.executor": "Run",
+    "JUnit.StackTest.testThatStackIsEmpty_AndIPushThreeElements_AndSearchForX_AndItReturnsThePositionInStack.executor": "Run",
+    "JUnit.StackTest.testThatStackIsEmpty_AndTryToPeekAnEmptyStack_AndMakeSureItThrowsException.executor": "Run",
+    "JUnit.StackTest.testThatStackIsEmpty_AndTryToPopAnEmptyStack_AndCheckIfItThrowsNewIllegalStateException.executor": "Run",
+    "JUnit.StackTest.testThatStackIsEmpty_ThenIPushFirstAndCheckThatItIsNotEmpty_ThenIPushSecondAndCheckItIsAlsoThere_ThenIMakeSureItReturnsSecondBeforeFirst.executor": "Run",
+    "JUnit.StackTest.testThatStackIsEmpty_ThenIPushFirst_AndIPushSecondAndCheckItIsNotEmpty_ThenIMakeSureItReturnsSecondBeforeFirst.executor": "Run",
+    "JUnit.StackTest.testThatStackIsEmpty_ThenIPushXAndTheStackIsNotEmpty_AndIPopX_AndTheStackIsEmptyAgain.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Repository.Attach.Annotations": "true",
+    "Repository.Attach.JavaDocs": "true",
+    "Repository.Attach.Sources": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "kotlin-language-version-configured": "true",
+    "last_directory_selection": "/home/semicolon/IdeaProjects/bankAccount/src/queue",
+    "last_opened_file_path": "/home/semicolon/Desktop/estherJavaScript",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/home/semicolon/IdeaProjects/bankAccount/src/Main.java",
+    "settings.editor.selected.configurable": "preferences.keymap",
+    "to.speed.mode.migration.done": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="arrayList" />
@@ -172,39 +177,7 @@
       <recent name="airConditioner" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.AccountTest.testThatIHaveAnAccountAndTheBalanceIsZero">
-    <configuration name="AccountTest.testThatIHaveAnAccountAndTheBalanceIsZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="bankAccount" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="account.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="account" />
-      <option name="MAIN_CLASS_NAME" value="account.AccountTest" />
-      <option name="METHOD_NAME" value="testThatIHaveAnAccountAndTheBalanceIsZero" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AccountTest.testThatIMustEnterMyBankPIN_BeforeICanWithdrawAnyAmountFromMyBalance" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="bankAccount" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="account.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="account" />
-      <option name="MAIN_CLASS_NAME" value="account.AccountTest" />
-      <option name="METHOD_NAME" value="testThatIMustEnterMyBankPIN_BeforeICanWithdrawAnyAmountFromMyBalance" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager">
     <configuration name="AccountTest.testThatWhenIDeposit5kAndWithdrawNegativeAmountMyBalanceIsStill5k" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bankAccount" />
       <extension name="coverage">
@@ -216,6 +189,38 @@
       <option name="PACKAGE_NAME" value="account" />
       <option name="MAIN_CLASS_NAME" value="account.AccountTest" />
       <option name="METHOD_NAME" value="testThatWhenIDeposit5kAndWithdrawNegativeAmountMyBalanceIsStill5k" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountTest.testThatWhenIDeposit5kAndWithdrawNegativeAmount_ItThrowsAnErrorForWithdrawalAndMyBalanceIsStill5k" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bankAccount" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="account" />
+      <option name="MAIN_CLASS_NAME" value="account.AccountTest" />
+      <option name="METHOD_NAME" value="testThatWhenIDeposit5kAndWithdrawNegativeAmount_ItThrowsAnErrorForWithdrawalAndMyBalanceIsStill5k" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AccountTest.testThatWhenITryToWithdrawWithAnIncorrectPIN_ItThrowsIllegalException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bankAccount" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="account" />
+      <option name="MAIN_CLASS_NAME" value="account.AccountTest" />
+      <option name="METHOD_NAME" value="testThatWhenITryToWithdrawWithAnIncorrectPIN_ItThrowsIllegalException" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -237,7 +242,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AccountTest.testThatWhenIWithdrawNegativeAmount_MyBalanceIsStillZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AccountTest.testThatWhenIWithdrawNegativeAmount_AndItThrowsAnError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bankAccount" />
       <extension name="coverage">
         <pattern>
@@ -247,7 +252,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="account" />
       <option name="MAIN_CLASS_NAME" value="account.AccountTest" />
-      <option name="METHOD_NAME" value="testThatWhenIWithdrawNegativeAmount_MyBalanceIsStillZero" />
+      <option name="METHOD_NAME" value="testThatWhenIWithdrawNegativeAmount_AndItThrowsAnError" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -255,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AccountTest.testThatWhenITryToWithdrawWithAnIncorrectPIN_ItThrowsIllegalException" />
+        <item itemvalue="JUnit.AccountTest.testThatWhenIDeposit5kAndWithdrawNegativeAmount_ItThrowsAnErrorForWithdrawalAndMyBalanceIsStill5k" />
+        <item itemvalue="JUnit.AccountTest.testThatWhenIWithdrawNegativeAmount_AndItThrowsAnError" />
         <item itemvalue="JUnit.AccountTest.testThatWhenIWithdraw3kMyBalanceShouldRemainZero" />
         <item itemvalue="JUnit.AccountTest.testThatWhenIDeposit5kAndWithdrawNegativeAmountMyBalanceIsStill5k" />
-        <item itemvalue="JUnit.AccountTest.testThatWhenIWithdrawNegativeAmount_MyBalanceIsStillZero" />
-        <item itemvalue="JUnit.AccountTest.testThatIHaveAnAccountAndTheBalanceIsZero" />
-        <item itemvalue="JUnit.AccountTest.testThatIMustEnterMyBankPIN_BeforeICanWithdrawAnyAmountFromMyBalance" />
       </list>
     </recent_temporary>
   </component>
