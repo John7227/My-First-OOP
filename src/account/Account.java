@@ -3,31 +3,47 @@ package account;
 public class Account {
 
     private double accountBalance;
-    private final String PIN;
+    private final String pin;
+    private final String accountName;
+    private final int accountNumber;
 
-    public Account(String PIN) {
-        this.PIN = PIN;
+    public Account(String pin, String name, int accountNumber) {
+        this.pin = pin;
+        this.accountName = name;
+        this.accountNumber = accountNumber;
     }
 
-    public double getBalance(String PIN) {
-        if(this.PIN.equals(PIN))
+    public double getBalance(String pin) {
+        if(this.pin.equals(pin))
             return accountBalance;
-        throw new IllegalArgumentException("Wrong PIN");
+        throw new IllegalArgumentException("Wrong Pin");
+    }
+
+    private boolean isValid(double amount) {
+        return amount > 0;
     }
 
     public void deposit(double amount) {
-        if(amount > 0)
+        if(isValid(amount))
             accountBalance += amount;
 
     }
 
-    public void withdraw(String PIN, double amount) {
-        if(this.PIN.equals(PIN) && amount > 0 && accountBalance > amount) {
+    public void withdraw(String pin, double amount) {
+        if(this.pin.equals(pin) && accountBalance > amount && isValid(amount)) {
             accountBalance -= amount;
         }
         else {
             throw new IllegalArgumentException("Invalid");
         }
+    }
+
+    public String getAccountName() {
+        return accountName;
+    }
+
+    public int getAccountNumber() {
+        return accountNumber;
     }
 }
 

@@ -5,15 +5,15 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertThrows;
 
-
 public class AccountTest {
 
     private Account myAccount;
     private final String VALID_PIN = "0124";
+    private final String INVALID_PIN = "1234";
 
     @BeforeEach
     public void startWith (){
-        myAccount = new Account(VALID_PIN);
+        myAccount = new Account(VALID_PIN, "Daniel", 23456);
     }
 
     @Test
@@ -82,7 +82,13 @@ public class AccountTest {
         assertEquals(0 , myAccount.getBalance(VALID_PIN));
 
         myAccount.deposit(5000);
-        assertThrows(IllegalArgumentException.class, () -> myAccount.withdraw("1234", 3000));
+        assertThrows(IllegalArgumentException.class, () -> myAccount.withdraw(INVALID_PIN, 3000));
+    }
+
+    @Test
+    public void testThatAccountShouldSuccessfullyReturnTheHolderName_AndAccountNumber() {
+        assertEquals("Daniel", myAccount.getAccountName());
+        assertEquals(23456, myAccount.getAccountNumber());
     }
 
 }
