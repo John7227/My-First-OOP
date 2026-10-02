@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="dfa0e27b-f430-4e0e-85d3-e93adb0ce4fe" name="Changes" comment="done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/account/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/account/Account.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/account/AccountTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/account/AccountTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,61 +30,61 @@
   </component>
   <component name="NextEditCompletionFeaturesState">
     <decayedCancelled>
-      <entry key="MS100" value="1.0" />
-      <entry key="MS500" value="1.0000001258318088" />
-      <entry key="S2" value="1.0188342223373559" />
-      <entry key="S5" value="1.204671757454805" />
-      <entry key="S10" value="1.4900972095489602" />
-      <entry key="S30" value="2.8476274876357075" />
-      <entry key="S60" value="4.63752646113444" />
-      <entry key="M2" value="6.808631938419479" />
-      <entry key="M5" value="11.119205647676589" />
-      <entry key="M10" value="15.26950962016563" />
-      <entry key="M15" value="17.4654733584789" />
-      <entry key="M30" value="20.386054606144782" />
-      <entry key="H1" value="25.310050365800418" />
-      <entry key="H2" value="46.4000331036147" />
-      <entry key="H4" value="88.3540784070301" />
-      <entry key="D1" value="178.31985602836025" />
-      <entry key="W1" value="203.42892536701834" />
+      <entry key="MS100" value="1.2890617909404476" />
+      <entry key="MS500" value="3.0179834046116873" />
+      <entry key="S2" value="5.583687382033174" />
+      <entry key="S5" value="7.640203406336801" />
+      <entry key="S10" value="8.977156397579204" />
+      <entry key="S30" value="10.22695089468871" />
+      <entry key="S60" value="10.599812248101314" />
+      <entry key="M2" value="10.832566959785245" />
+      <entry key="M5" value="11.444634924337771" />
+      <entry key="M10" value="12.691604574660499" />
+      <entry key="M15" value="14.447155657628068" />
+      <entry key="M30" value="20.766898682693842" />
+      <entry key="H1" value="35.39256607512762" />
+      <entry key="H2" value="75.5117984314657" />
+      <entry key="H4" value="161.06998117824926" />
+      <entry key="D1" value="535.3520338816593" />
+      <entry key="W1" value="752.2498184341798" />
     </decayedCancelled>
     <decayedSelected>
-      <entry key="MS100" value="8.872132737048333E-10" />
-      <entry key="MS500" value="0.015707330747093753" />
-      <entry key="S2" value="0.4762752323757563" />
-      <entry key="S5" value="1.0924036824539376" />
-      <entry key="S10" value="1.4711542944141436" />
-      <entry key="S30" value="1.9044261856078342" />
-      <entry key="S60" value="2.2256021176420466" />
-      <entry key="M2" value="2.6398105193556973" />
-      <entry key="M5" value="3.435434533484173" />
-      <entry key="M10" value="4.03020405030544" />
-      <entry key="M15" value="4.301365427934812" />
-      <entry key="M30" value="4.650827135777993" />
-      <entry key="H1" value="5.8378035617108734" />
-      <entry key="H2" value="11.564793963553928" />
-      <entry key="H4" value="22.302063633773834" />
-      <entry key="D1" value="44.043451270399714" />
-      <entry key="W1" value="49.93381552873807" />
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="2.4705030615841693E-286" />
+      <entry key="S2" value="4.675166376931795E-72" />
+      <entry key="S5" value="4.4457120676113696E-29" />
+      <entry key="S10" value="1.1178047819771588E-14" />
+      <entry key="S30" value="5.285102702961851E-5" />
+      <entry key="S60" value="0.014744978221400052" />
+      <entry key="M2" value="0.26606264133171714" />
+      <entry key="M5" value="1.6735955013298367" />
+      <entry key="M10" value="3.6644439609084447" />
+      <entry key="M15" value="5.548960233651785" />
+      <entry key="M30" value="10.34908473332682" />
+      <entry key="H1" value="17.204393836593056" />
+      <entry key="H2" value="31.16701202186305" />
+      <entry key="H4" value="63.20410227509395" />
+      <entry key="D1" value="193.30103786339674" />
+      <entry key="W1" value="259.5978857584596" />
     </decayedSelected>
     <decayedShown>
-      <entry key="MS100" value="0.35111121893455893" />
-      <entry key="MS500" value="0.8133951691438784" />
-      <entry key="S2" value="1.2122651758537013" />
-      <entry key="S5" value="1.9199215117640114" />
-      <entry key="S10" value="2.637632824230418" />
-      <entry key="S30" value="4.578891007438631" />
-      <entry key="S60" value="6.754806383907583" />
-      <entry key="M2" value="9.37685601911289" />
-      <entry key="M5" value="14.503961634895859" />
-      <entry key="M10" value="19.263345949980263" />
-      <entry key="M15" value="21.73882077383836" />
-      <entry key="M30" value="25.020450311599348" />
-      <entry key="H1" value="31.138094193275755" />
-      <entry key="H2" value="57.95714990703995" />
-      <entry key="H4" value="110.64960868910619" />
-      <entry key="D1" value="222.36127147172056" />
-      <entry key="W1" value="253.36241260929557" />
+      <entry key="MS100" value="1.0386973634406367" />
+      <entry key="MS500" value="2.725374996222344" />
+      <entry key="S2" value="5.445422319773594" />
+      <entry key="S5" value="7.567570380958877" />
+      <entry key="S10" value="8.935022490502645" />
+      <entry key="S30" value="10.211096868578439" />
+      <entry key="S60" value="10.606014808764028" />
+      <entry key="M2" value="11.091621757144363" />
+      <entry key="M5" value="13.109116925447388" />
+      <entry key="M10" value="16.34641604780007" />
+      <entry key="M15" value="19.98577588684685" />
+      <entry key="M30" value="31.104643962712217" />
+      <entry key="H1" value="52.58510794926825" />
+      <entry key="H2" value="106.66492949679723" />
+      <entry key="H4" value="224.25854348712255" />
+      <entry key="D1" value="728.644905062916" />
+      <entry key="W1" value="1011.846126003653" />
     </decayedShown>
   </component>
   <component name="ProjectColorInfo">{
@@ -100,9 +98,11 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Atm.executor": "Run",
     "Downloaded.Files.Path.Enabled": "false",
     "JUnit.AccountTest.executor": "Run",
     "JUnit.AccountTest.testThaIMustEnterBankPIN_BeforeICanCheckMyBalance.executor": "Run",
+    "JUnit.AccountTest.testThatAccountShouldSuccessfullyReturnTheHolderName_AndAccountNumber.executor": "Run",
     "JUnit.AccountTest.testThatIHaveAnAccountAndTheBalanceIsZero.executor": "Run",
     "JUnit.AccountTest.testThatIMustEnterMyBankPIN_BeforeICanWithdrawAnyAmountFromMyBalance.executor": "Run",
     "JUnit.AccountTest.testThatIhaveAnAccountAndTheBalanceIsZero.executor": "Run",
@@ -118,6 +118,16 @@
     "JUnit.AccountTest.testThatWhenIWithdrawNegativeAmount_MyBalanceIsStillZero.executor": "Run",
     "JUnit.AirConditionerTest.executor": "Run",
     "JUnit.ArrayListTest.testThatTheArrayListIsEmpty.executor": "Run",
+    "JUnit.BankTest.executor": "Run",
+    "JUnit.BankTest.testThatAccountIsSuccessfullyCreated.executor": "Run",
+    "JUnit.BankTest.testThatIHaveABank_ICanCreateAccount_AndCanCheckMyBalance.executor": "Run",
+    "JUnit.BankTest.testThatIHaveABank_ICanCreateAccount_AndCheckMyBalance_WithAWrongAccountNumber_AndAnExceptionIsThrown.executor": "Run",
+    "JUnit.BankTest.testThatIHaveABank_ICanCreateAccount_AndCheckMyBalance_WithAWrongPin_AndAnExceptionIsThrown.executor": "Run",
+    "JUnit.BankTest.testThatIHaveABank_ICanCreateAccount_IHaveAnAccountNumber_AndCanFindMyAccount.executor": "Run",
+    "JUnit.BankTest.testThatIHaveABank_ICanCreateAccount_IHaveAnAccountNumber_AndWhenAWrongAccountNumberIsEnteredToFind_An_Account_ItThrowsIllegalException.executor": "Run",
+    "JUnit.BankTest.testThatIHaveABank_ICanCreateAccount_MyBalanceIsEmpty_IDeposit2000_AndMyBalanceChangesTo2000.executor": "Run",
+    "JUnit.BankTest.testThatIHaveABank_ICanCreateAccount_MyBalanceIsEmpty_IDeposit2000_AndWithdraw1000_AndMyBalanceIs1000.executor": "Run",
+    "JUnit.BankTest.testThatIHaveABank_ICanCreateAccount_MyBalanceIsEmpty_IDeposit2000_ITransfer1500_AndMyBalanceIs500.executor": "Run",
     "JUnit.BikeTest.executor": "Run",
     "JUnit.QueueTest.executor": "Run",
     "JUnit.QueueTest.testThatIAddElementIntoTheQueue_AndItReturnsTrueIfItIsSuccessful.executor": "Run",
@@ -157,7 +167,7 @@
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "last_directory_selection": "/home/semicolon/IdeaProjects/bankAccount/src/queue",
-    "last_opened_file_path": "/home/semicolon/Desktop/estherJavaScript",
+    "last_opened_file_path": "/home/semicolon/Desktop/My-First-OOP",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
@@ -172,13 +182,27 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="account" />
       <recent name="arrayList" />
       <recent name="queue" />
       <recent name="airConditioner" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="AccountTest.testThatWhenIDeposit5kAndWithdrawNegativeAmountMyBalanceIsStill5k" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Atm">
+    <configuration name="Atm" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="account.Atm" />
+      <module name="bankAccount" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bankAccount" />
       <extension name="coverage">
         <pattern>
@@ -187,14 +211,29 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="account" />
-      <option name="MAIN_CLASS_NAME" value="account.AccountTest" />
-      <option name="METHOD_NAME" value="testThatWhenIDeposit5kAndWithdrawNegativeAmountMyBalanceIsStill5k" />
+      <option name="MAIN_CLASS_NAME" value="account.BankTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BankTest.testThatIHaveABank_ICanCreateAccount_MyBalanceIsEmpty_IDeposit2000_AndMyBalanceChangesTo2000" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="bankAccount" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="account.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="account" />
+      <option name="MAIN_CLASS_NAME" value="account.BankTest" />
+      <option name="METHOD_NAME" value="testThatIHaveABank_ICanCreateAccount_MyBalanceIsEmpty_IDeposit2000_AndMyBalanceChangesTo2000" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AccountTest.testThatWhenIDeposit5kAndWithdrawNegativeAmount_ItThrowsAnErrorForWithdrawalAndMyBalanceIsStill5k" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BankTest.testThatIHaveABank_ICanCreateAccount_MyBalanceIsEmpty_IDeposit2000_AndWithdraw1000_AndMyBalanceIs1000" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bankAccount" />
       <extension name="coverage">
         <pattern>
@@ -203,14 +242,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="account" />
-      <option name="MAIN_CLASS_NAME" value="account.AccountTest" />
-      <option name="METHOD_NAME" value="testThatWhenIDeposit5kAndWithdrawNegativeAmount_ItThrowsAnErrorForWithdrawalAndMyBalanceIsStill5k" />
+      <option name="MAIN_CLASS_NAME" value="account.BankTest" />
+      <option name="METHOD_NAME" value="testThatIHaveABank_ICanCreateAccount_MyBalanceIsEmpty_IDeposit2000_AndWithdraw1000_AndMyBalanceIs1000" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AccountTest.testThatWhenITryToWithdrawWithAnIncorrectPIN_ItThrowsIllegalException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="BankTest.testThatIHaveABank_ICanCreateAccount_MyBalanceIsEmpty_IDeposit2000_ITransfer1500_AndMyBalanceIs500" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="bankAccount" />
       <extension name="coverage">
         <pattern>
@@ -219,40 +258,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="account" />
-      <option name="MAIN_CLASS_NAME" value="account.AccountTest" />
-      <option name="METHOD_NAME" value="testThatWhenITryToWithdrawWithAnIncorrectPIN_ItThrowsIllegalException" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AccountTest.testThatWhenIWithdraw3kMyBalanceShouldRemainZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="bankAccount" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="account.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="account" />
-      <option name="MAIN_CLASS_NAME" value="account.AccountTest" />
-      <option name="METHOD_NAME" value="testThatWhenIWithdraw3kMyBalanceShouldRemainZero" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AccountTest.testThatWhenIWithdrawNegativeAmount_AndItThrowsAnError" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="bankAccount" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="account.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="account" />
-      <option name="MAIN_CLASS_NAME" value="account.AccountTest" />
-      <option name="METHOD_NAME" value="testThatWhenIWithdrawNegativeAmount_AndItThrowsAnError" />
+      <option name="MAIN_CLASS_NAME" value="account.BankTest" />
+      <option name="METHOD_NAME" value="testThatIHaveABank_ICanCreateAccount_MyBalanceIsEmpty_IDeposit2000_ITransfer1500_AndMyBalanceIs500" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -260,11 +267,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.AccountTest.testThatWhenITryToWithdrawWithAnIncorrectPIN_ItThrowsIllegalException" />
-        <item itemvalue="JUnit.AccountTest.testThatWhenIDeposit5kAndWithdrawNegativeAmount_ItThrowsAnErrorForWithdrawalAndMyBalanceIsStill5k" />
-        <item itemvalue="JUnit.AccountTest.testThatWhenIWithdrawNegativeAmount_AndItThrowsAnError" />
-        <item itemvalue="JUnit.AccountTest.testThatWhenIWithdraw3kMyBalanceShouldRemainZero" />
-        <item itemvalue="JUnit.AccountTest.testThatWhenIDeposit5kAndWithdrawNegativeAmountMyBalanceIsStill5k" />
+        <item itemvalue="Application.Atm" />
+        <item itemvalue="JUnit.BankTest" />
+        <item itemvalue="JUnit.BankTest.testThatIHaveABank_ICanCreateAccount_MyBalanceIsEmpty_IDeposit2000_ITransfer1500_AndMyBalanceIs500" />
+        <item itemvalue="JUnit.BankTest.testThatIHaveABank_ICanCreateAccount_MyBalanceIsEmpty_IDeposit2000_AndWithdraw1000_AndMyBalanceIs1000" />
+        <item itemvalue="JUnit.BankTest.testThatIHaveABank_ICanCreateAccount_MyBalanceIsEmpty_IDeposit2000_AndMyBalanceChangesTo2000" />
       </list>
     </recent_temporary>
   </component>
@@ -315,6 +322,9 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/bankAccount$BikeTest.ic" NAME="BikeTest Coverage Results" MODIFIED="1788706194229" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
       <FILTER>bike.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/bankAccount$BankTest.ic" NAME="BankTest Coverage Results" MODIFIED="1790871411224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>account.*</FILTER>
     </SUITE>
     <SUITE FILE_PATH="coverage/bankAccount$AirConditionerTest.ic" NAME="AirConditionerTest Coverage Results" MODIFIED="1788706134631" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
       <FILTER>airConditioner.*</FILTER>
